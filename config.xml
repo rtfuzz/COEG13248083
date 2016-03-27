@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "kmrs.merchant.app"
+    id        = "cyberomnes.easygo.merchant.app"
     version   = "1.0.0">
-    <name>Karenderia Order Taking App</name>
+    <name>EasyGo Order Taking App</name>
     <description>
-        Karenderia Order Taking App
+        EasyGO Order Taking App
     </description>
-    <author email="basti@codemywebapps.com" href="http://cordova.io">
-        codemywebapps.com
+    <author email="contato@cyberomnes.com" href="http://cyberomnes.com">
+        cyberomnes.com
     </author>
     <icon src="icon.png" />           
     <content src="index.html" />
